@@ -37,8 +37,9 @@
     - Like this
     - And this
     
-# 三、图片
-
+# 三、链接和图片
+  [链接到百度](https://www.baidu.com/)</br>
+  链接 https://www.baidu.com/ </br>
   如果你希望嵌入一张图片，可以这么做</br>
   ![Yaktocat 的图片](https://github.com/longpang/markdown/blob/master/testimage.png)
   
